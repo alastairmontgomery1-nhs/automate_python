@@ -1,4 +1,5 @@
 nohup.out
 .history
 .idea
+.env
 __pycache__
